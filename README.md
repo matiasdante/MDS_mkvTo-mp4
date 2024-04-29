@@ -12,7 +12,8 @@ Este repositorio es perfecto si grabas videos en obs y te quedan en formato MKV 
 
 ## Instalacion:
 
-1. Ve a la parte de releses
+1. Ve a la parte de [releases](https://github.com/matiasdante/MDS_mkvTo-mp4/releases)
+
 ```bash
 https://github.com/matiasdante/MDS_mkvTo-mp4/releases
 ```
