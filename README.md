@@ -1,4 +1,4 @@
-## Convertidor de archivos MKV a MP4
+## Convertidor de archivos de video a MP4
 
 **Descripción:**
 
